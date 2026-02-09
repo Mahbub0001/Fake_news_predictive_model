@@ -223,10 +223,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For questions, suggestions, or collaborations:
-- [Email]: mahbub@example.com
-- [LinkedIn]: linkedin.com/in/mahbub-bhuiyan
-- [GitHub]: github.com/mahbub-bhuiyan
+- **Email**: [mahbub@example.com](mailto:mahbub@example.com)
+- **LinkedIn**: [linkedin.com/in/mahbub-bhuiyan](https://linkedin.com/in/mahbub-bhuiyan)
+- **GitHub**: [github.com/mahbub-bhuiyan](https://github.com/mahbub-bhuiyan)
 
----
 
 **⚡ Built with passion for combating misinformation and promoting media literacy**
